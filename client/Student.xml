@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+    <student>
+        <id>1</id>
+        <name>James Brad</name>
+        <age>19</age>
+        <address>Butuan City</address>
+        <contact_number>09794584571</contact_number>
+    </student>
+    <student>
+        <id>2</id>
+        <name>JM Gracias</name>
+        <age>20</age>
+        <address>Davao City</address>
+        <contact_number>09996487945</contact_number>
+    </student>
+    <student>
+        <id>3</id>
+        <name>Kim Mellark</name>
+        <age>22</age>
+        <address>Cebu City</address>
+        <contact_number>09124549784</contact_number>
+    </student>
+    <student>
+        <id>4</id>
+        <name>Mara Aquino</name>
+        <age>22</age>
+        <address>Quezon City</address>
+        <contact_number>09112456789</contact_number>
+    </student>
+    <student>
+        <id>5</id>
+        <name>Bon Chan</name>
+        <age>23</age>
+        <address>Manila City</address>
+        <contact_number>09656478941</contact_number>
+    </student>
+</students>

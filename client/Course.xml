@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses_list>
+    <!-- Student 1 -->
+    <courses>
+        <course_id>1001</course_id>
+        <student_id>1</student_id>
+        <course_title>Computer Science Fundamentals</course_title>
+        <course_description>An introduction to the basic concepts of computer science.</course_description>
+    </courses>
+
+    <!-- Student 2 -->
+    <courses>
+        <course_id>1002</course_id>
+        <student_id>2</student_id>
+        <course_title>Database Management Systems</course_title>
+        <course_description>Exploration of database design, implementation, and management.</course_description>
+    </courses>
+
+    <!-- Student 3 -->
+    <courses>
+        <course_id>1003</course_id>
+        <student_id>3</student_id>
+        <course_title>Artificial Intelligence</course_title>
+        <course_description>Introduction to the concepts and techniques of AI.</course_description>
+    </courses>
+
+    <!-- Student 4 -->
+    <courses>
+        <course_id>1004</course_id>
+        <student_id>4</student_id>
+        <course_title>Network Security</course_title>
+        <course_description>Study of network security principles and practices.</course_description>
+    </courses>
+
+    <!-- Student 5 -->
+    <courses>
+        <course_id>1005</course_id>
+        <student_id>5</student_id>
+        <course_title>Software Development</course_title>
+        <course_description>Study of software engineering principles and practices.</course_description>
+    </courses>
+</courses_list>
